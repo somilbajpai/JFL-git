@@ -1,2 +1,3 @@
 demo inserted
 stashrevert
+remote edited
