@@ -1,3 +1,4 @@
 demo inserted
 stashrevert
 remote edited
+data in demo.txt
